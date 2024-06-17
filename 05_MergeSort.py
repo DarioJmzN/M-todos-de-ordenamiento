@@ -1,3 +1,5 @@
+#Pablo Darío Jimenez Nuño
+
 from random import sample 
 # Importamos un Método de la biblioteca random para generar listas aleatorias
 
